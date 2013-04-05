@@ -1,0 +1,15 @@
+小米1/1s CM10.1源代码
+=======
+添加过小米device的CM10.1源代码
+初始化仓库:
+
+repo init -u git://github.com/tobbytan/android.git -b jellybean
+
+同步代码:
+
+repo sync -j8
+ 
+或者-j32 看自己喜好。数字越大下载线程越多。
+
+
+
